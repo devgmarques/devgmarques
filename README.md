@@ -2,8 +2,10 @@
 <h3>Olá tudo bem? Sou o Guilherme Marques,<br> estudante recente de programação<br>e pretendo me aprimorar cada vez mais..</h3>
 
 <!-- Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeHenrique08&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-<img width="200em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeHenrique08&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+<div style="display: inline_block"><br>
+<img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api?username=guilhermeHenrique08&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+<img width="180em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeHenrique08&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+</div>
 
 ##
 
