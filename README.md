@@ -1,6 +1,7 @@
 <!-- presentation -->
 ## <h1>Olá Mundo !</h1>
-## <h2>Olá tudo bem? Sou o Guilherme Marques, estudante recente de programaçãoe pretendo me aprimorar cada vez mais..</h>
+## <h2>Olá tudo bem ? Sou o Guilherme Henrique, há 4 meses comecei a estudar programação na área de Front-end. E curso Desenvolvimento de Sistemas.
+## E aí, bora conectar ?</h2>
 
 <!-- Stats -->
 <div align="center">
