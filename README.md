@@ -2,7 +2,7 @@
 
 Sou o Guilherme, um entusiasta da programação em busca criativas para desafios tecnológicos. aqui compartilho meu amor pela codificação.
 
-## 💻Linguagens que eu utilizo
+## 💻Tecnologias que eu utilizo
 
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
