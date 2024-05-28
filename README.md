@@ -1,6 +1,6 @@
 ## Um pouco sobre mim
 
-Sou o Guilherme, um entusiasta da programação em busca criativas para desafios tecnológicos. aqui compartilho meu amor pela codificação.
+Sou o Guilherme, um programador em busca criativas para desafios tecnológicos. aqui compartilho meu amor pela codificação.
 
 ## 💻Tecnologias que eu utilizo
 
