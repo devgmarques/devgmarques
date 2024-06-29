@@ -15,7 +15,7 @@ Sou o Guilherme, um programador em busca criativas para desafios tecnológicos. 
 
 ## 🤵Contato
 
-<a href="https://www.linkedin.com/in/guilherme-marques-68aa16267/" target="blank">
+<a href="https://www.linkedin.com/in/gmarques/" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:guilhermehenrique12308@gmail.com" target="blank">
@@ -24,7 +24,7 @@ Sou o Guilherme, um programador em busca criativas para desafios tecnológicos. 
 
 ## ✨Status
 
-<a href="https://github.com/guilhermeHenrique08">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guilhermeHenrique08&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeHenrique08&layout=compact&langs_count=7&theme=dark"/>
+<a href="https://github.com/devgmarques">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devgmarques&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmarques&layout=compact&langs_count=7&theme=dark"/>
 <a>
