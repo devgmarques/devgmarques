@@ -15,7 +15,7 @@ Sou o Guilherme, um programador em busca criativas para desafios tecnológicos. 
 
 ## 🤵Contato
 
-<a href="https://www.linkedin.com/in/gmarques/" target="blank">
+<a href="https://www.linkedin.com/in/ghmarques/" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:ghmarques.contato@gmail.com" target="blank">
