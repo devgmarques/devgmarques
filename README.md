@@ -25,6 +25,6 @@ Sou o Guilherme, um programador em busca criativas para desafios tecnológicos. 
 ## ✨Status
 
 <a href="https://github.com/devgmarques">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devgmarques&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgmarques&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ghmarques-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghmarques-dev&layout=compact&langs_count=7&theme=dark"/>
 <a>
