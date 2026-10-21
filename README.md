@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá! Eu sou o Gustavo Marques 👋
 
-<!--
-**devgmarques/devgmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Ciência da Computação na Universidade Federal de Uberlândia (UFU)**.
 
-Here are some ideas to get you started:
+Por aqui, compartilho projetos, exercícios e aprendizados da minha trajetória na programação. Gosto de entender como as soluções funcionam e transformar teoria em prática, um projeto de cada vez.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 O que estou estudando
+
+-  Python.
+- **SQL e PostgreSQL** para bancos de dados.
+- Fundamentos de **Inteligência Artificial**.
+- Resolução de problemas.
+
+## 💻 O que você vai encontrar por aqui
+
+- Projetos desenvolvidos durante a graduação.
+- Exercícios de programação e exploração de conceitos.
+- Projetos pessoais para colocar novos conhecimentos em prática.
+
+## 🌱 Meu objetivo
+
+Construir uma base sólida em computação e desenvolver soluções úteis enquanto evoluo como programador.
+
+---
+
+*Aprendendo, praticando e construindo.*
